@@ -5,6 +5,8 @@
 // @grant       none
 // @version     1.0
 // @author      K-Monitor
+// @homepageURL https://github.com/k-monitor/lekap
+// @updateURL   https://github.com/k-monitor/lekap/releases/download/v1.0/lekap.user.js
 // @description Egy userscript, ami (részben) automatizálja kikap-os dokumentumok letöltését.
 // ==/UserScript==
 
