@@ -1,6 +1,6 @@
 # lekap
 
-Egy userscript, ami (részben) automatizálja kikap-os dokumentumok letöltését.
+Egy [userscript](https://en.wikipedia.org/wiki/Userscript), ami (részben) automatizálja kikap-os dokumentumok letöltését.
 
 ## Info
 
