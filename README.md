@@ -16,7 +16,7 @@ A script a hálózat (internet) instabilitása miatt vagy egyéb előre nem lát
 Az sem kizárható, hogy bizonyos kikapos dokumentumokkal nem kompatibilis. Igyekszünk javítani az ilyen típusú hibákat, de nem sok kikapos linkhez férünk hozzá. Ha hibát észlelsz, kérlek jelezd nekünk! Ha tudsz, itt [nyiss egy issue](https://github.com/k-monitor/lekap/issues/new?template=Blank+issue)-t, de az se baj, ha [email](mailto:info@k-monitor.hu)-ben jelzed felénk.
 
 > [!WARNING]
-> A K-Monitor semmilyen felelősséget nem vállal a script által okozott problémák miatt. Többek közt, de nem kizárólag a részben letöltődött dokumentumok, bezáratlanul maradt dokumentumok és véletlenül okozott kormányváltás miatt.
+> A K-Monitor semmilyen felelősséget nem vállal a script által okozott problémák miatt. Többek közt, de nem kizárólag a részben letöltődött dokumentumok, bezáratlanul maradt dokumentumok miatt.
 
 ## Telepítés
 
