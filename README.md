@@ -50,7 +50,7 @@ Telepítés: [katt ide](https://github.com/k-monitor/lekap/releases/download/v1.
 
 8. Dőlj hátra és nézd, ahogy egyesével letöltődnek a fájlok!
 
-   A szerver lassúsága miatt a letöltések több másodpercig eltarthatnak, légy türelmes és közben ne lépj válts másik oldalra!
+   A szerver lassúsága miatt a letöltések több másodpercig eltarthatnak, légy türelmes és közben ne válts másik oldalra!
 
    Ha előbb le akarod állítani a letöltési folyamatot, kattints a dokumentum bezárása gombra.
 
