@@ -2,10 +2,23 @@
 
 Egy userscript, ami (részben) automatizálja kikap-os dokumentumok letöltését.
 
+## Info
+
 ### Funkciók
 - letöltések és lépkedések automatizálása
 - captcha bekérő szövegdoboz szövegének láthatóvá tétele
 - jobb klikk engedélyezése az oldalon
+
+> [!WARNING]
+> A K-Monitor semmilyen felelősséget nem vállal a script által okozott problémák miatt. Többek közt, de nem kizárólag a részben letöltődött dokumentumok, bezáratlanul maradt dokumentumok és véletlenül okozott kormányváltás miatt.
+
+### Hibák
+
+A script a hálózat (internet) instabilitása miatt vagy egyéb előre nem látható okokból megakadhat és elképzelhető, hogy egy vagy több oldalt nem tölt le.
+
+Az se kizárható, hogy bizonyos kikapos dokumentumokkal nem kompatibilis. Igyekszünk javítani az ilyen típusú hibákat, de nem sok kikapos linkhez férünk hozzá. Ha hibát észlelsz, kérlek jelezd nekünk. Lehetőleg itt nyiss egy issue-t, de az se baj, ha email-ben jelzed felénk.
+
+## Telepítés
 
 ### Ha tudod mit csinálsz
 
