@@ -1,6 +1,6 @@
 # lekap
 
-Egy [userscript](https://en.wikipedia.org/wiki/Userscript), ami (részben) automatizálja kikap-os dokumentumok letöltését.
+Egy [userscript](https://en.wikipedia.org/wiki/Userscript), ami (részben) automatizálja [kikap](https://kikap.kormany.hu/)-os dokumentumok letöltését.
 
 ## Info
 
@@ -16,13 +16,13 @@ Egy [userscript](https://en.wikipedia.org/wiki/Userscript), ami (részben) autom
 
 A script a hálózat (internet) instabilitása miatt vagy egyéb előre nem látható okokból megakadhat és elképzelhető, hogy egy vagy több oldalt nem tölt le.
 
-Az se kizárható, hogy bizonyos kikapos dokumentumokkal nem kompatibilis. Igyekszünk javítani az ilyen típusú hibákat, de nem sok kikapos linkhez férünk hozzá. Ha hibát észlelsz, kérlek jelezd nekünk. Lehetőleg itt nyiss egy issue-t, de az se baj, ha email-ben jelzed felénk.
+Az se kizárható, hogy bizonyos kikapos dokumentumokkal nem kompatibilis. Igyekszünk javítani az ilyen típusú hibákat, de nem sok kikapos linkhez férünk hozzá. Ha hibát észlelsz, kérlek jelezd nekünk. Ha tudsz, itt [nyiss egy issue](https://github.com/k-monitor/lekap/issues/new?template=Blank+issue)-t, de az se baj, ha [email](mailto:info@k-monitor.hu)-ben jelzed felénk.
 
 ## Telepítés
 
 ### Ha tudod mit csinálsz
 
-Ajánlott böngésző: Firefox
+Ajánlott böngésző: [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 Ajánlott bővítmény: [Violent monkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
 
